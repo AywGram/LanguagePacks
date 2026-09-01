@@ -1,0 +1,263 @@
+{
+  "schema": 1,
+  "locale": "lv",
+  "source_sha256": "a3324e782349b64b4ec8d3f254dcd63852566bb94239d9f6b0ca6fbbb3b98955",
+  "strings": {
+    "DocsText": {
+      "source": "c205924de0fe636ccdde4ed616fef66f75b78e98b03620637965c033fd161141",
+      "value": "Dokumentācija"
+    },
+    "CategoryGhostMode": {
+      "source": "48b2b30ed673a93a27bc0fa8d57a487e36fbafb41494dab5e29e02322b7ee1a0",
+      "value": "Spoku režīms 👻"
+    },
+    "CategorySpy": {
+      "source": "aa01aabf676492abef4d84fffee2340d9dedf52c68d62297f9790c23b2ef503b",
+      "value": "Spiegs"
+    },
+    "GhostEssentialsHeader": {
+      "source": "bddf20a44f025af6dabb52ac0dd8b56858e04f088ec566a9776309a17e6ec312",
+      "value": "Spoku režīma pamatfunkcijas"
+    },
+    "SendWithoutSoundByDefaultNever": {
+      "source": "6300ef800bb884295b0b4b35682b75cecd7cc550d202db56d04a0643b8fb873f",
+      "value": "Nekad"
+    },
+    "SendWithoutSoundByDefaultInGhostMode": {
+      "source": "f9c4d405f2428184df85ce7a64f4f251459e1b94bd24de5c1cd3af48254df13d",
+      "value": "Kad izmanto Spoku režīmu 👻"
+    },
+    "SendWithoutSoundByDefaultAlways": {
+      "source": "de9f057a471cdb8d3b082719bdc7ad2031788d042947349723fa83c9d13a517a",
+      "value": "Vienmēr"
+    },
+    "SpyEssentialsHeader": {
+      "source": "32fe16e7e5e2486e88d395eebadfd55848f7f3e2d785a87c474b180d615a8609",
+      "value": "Spiegu režīma pamatfunkcijas"
+    },
+    "SaveDeletedMessages": {
+      "source": "c0bc90ada1932432798cfc0ece2dfe1e8d086130594ff92eb38cc0b5bdd3ba31",
+      "value": "\nУделеные собщения\n"
+    },
+    "AttachmentsFolderMaxSizeHeader": {
+      "source": "f7f667433208d5d6f37a9cb03f57c224f2f9f085f480049c253d14f1fbe1a303",
+      "value": "Maksimālais mapes izmērs"
+    },
+    "AttachmentsFolderMaxSizeDescription": {
+      "source": "204948739ff8082b6adeaa89f4d4eaa082421372cfb8409ff7100f27504315e1",
+      "value": "Ja mapes izmērs pārsniedz šo ierobežojumu, vecākie pielikumi tiks dzēsti no ierīces."
+    },
+    "ExportDatabaseButton": {
+      "source": "eb42aff5f2d19617d27a4efe226662e128968a03ab52ed29a9378ee0d19d4be6",
+      "value": "Izgūt datubāzi"
+    },
+    "ImportDatabaseButton": {
+      "source": "528dce061354021e9ca9c70aa346960ae4a5c05929e9f7049a564bd4c2797911",
+      "value": "Ievietot datubāzi"
+    },
+    "ChannelBottomButtonHide": {
+      "source": "ac20a57bfde0bbc40bfe70895eb1cfacc944aaff06ca784053623c569b3e1b3d",
+      "value": "Slēpt"
+    },
+    "SettingsShowID_Hide": {
+      "source": "ac20a57bfde0bbc40bfe70895eb1cfacc944aaff06ca784053623c569b3e1b3d",
+      "value": "Slēpt"
+    },
+    "MessageFieldElementAttach": {
+      "source": "d406ade2958cb5b6777af977e28cac8995cd430c03fd3eb36fef2f5f8971daeb",
+      "value": "Pievienot"
+    },
+    "MessageFieldElementCommands": {
+      "source": "b269dc4e81a528a4d42e9e74101923514a626f55f8dd76b1461e0690e72d041a",
+      "value": "Komandas"
+    },
+    "SettingsIncreaseWebviewHeight": {
+      "source": "d37c3961b444d4cc1768ac3822a9dc17f84fbbf56fecb4d2069fbca9739ebbcf",
+      "value": "Palielināt satura augstumu"
+    },
+    "SettingsIncreaseWebviewWidth": {
+      "source": "e7bef488c06e6d12805a6cd57389ff9955925ab30f3df52c76b0f4b3f34d6b19",
+      "value": "Palielināt satura platumu"
+    },
+    "ExportDataSuccess": {
+      "source": "21f30ee3549392206634bb62f60060f8d8564bc78ceb81859bfd321ee9a338ad",
+      "value": "Datubāze veiksmīgi izgūta."
+    },
+    "ExportDataFailure": {
+      "source": "5b75e36153bcdc61354d231f0506497613f0c9c59acf02dacb5f489a7deb8d9b",
+      "value": "Neizdevās izgūt datubāzi."
+    },
+    "ImportDataNotFound": {
+      "source": "f271fa19b1353fbca3aea4b42b18caec1056e374ae3976ea0277730c91df4143",
+      "value": "Nav datubāzes, ko ievietot."
+    },
+    "ImportDataSuccess": {
+      "source": "02772cdf5dbc2fc260828674c51971ca1c633f9ea22f13c491b80a982821589f",
+      "value": "Datubāze veiksmīgi ievietota."
+    },
+    "ImportDataFailure": {
+      "source": "375ceb7411186e65a94de0460dcac2de5a2ba820fd32c81f3375055c6ac6976a",
+      "value": "Neizdevās ievietot datubāzi."
+    },
+    "FiltersMenuImport": {
+      "source": "2cff9baabf56ca002610e113bc94deb6ededddfc3c130365b6e88ed5195bf774",
+      "value": "Ievietot"
+    },
+    "FiltersMenuExport": {
+      "source": "3664895579f0a7e68c4aa09c91316e20239bc74499010e6423ece40cad7c28f7",
+      "value": "Izgūt"
+    },
+    "FiltersImportTitle": {
+      "source": "0b443d7139eec860700f7c0ae5cff88d40c343d79f81b044160221032e90567d",
+      "value": "Atlasiet veidu, kā ievietot filtrus"
+    },
+    "FiltersImportClipboard": {
+      "source": "6c8a2f894876c33e18f1e77414a29a8f6f49ac33d31516066d4393e3e184205c",
+      "value": "Ielīmēt no starpliktuves"
+    },
+    "FiltersImportURL": {
+      "source": "e5e2b7c332423db1d6c7a1d066435d6f09070d0d6b5173ecaf11c39724d6df83",
+      "value": "Ievietot no URL"
+    },
+    "FiltersImportAction": {
+      "source": "2cff9baabf56ca002610e113bc94deb6ededddfc3c130365b6e88ed5195bf774",
+      "value": "Ievietot"
+    },
+    "FiltersExportTitle": {
+      "source": "b05865399bd2412fdce52b43281a3463e0d6646586c213516242c84eeaf47c8b",
+      "value": "Atlasiet veidu, kā izgūt filtrus"
+    },
+    "FiltersExportClipboard": {
+      "source": "fa8f2b6c07fb514c9dd6d5b1b44ad4fae8f9960e03f155f9dbb9ed89b76c0576",
+      "value": "Kopēt starpliktuvē"
+    },
+    "FiltersExportURL": {
+      "source": "0af8ec3c34f17620b61d5576b772c85b9635e5426390895393a15022c51e280f",
+      "value": "Publicēt dpaste.com vietnē"
+    },
+    "FiltersToastFailImport": {
+      "source": "78f07a0bd1bb385abe8d44725738b13ed6af7f18b5f1d8dcd390dc57faa7459c",
+      "value": "Neizdevās ievietot filtrus."
+    },
+    "FiltersToastSuccess": {
+      "source": "88a5d870b587cc2ad981216e6a46cb0fdc104d873e790e6be2705fb99f20e35f",
+      "value": "Filtri veiksmīgi ievietoti."
+    },
+    "WALMode": {
+      "source": "0fecbdc073a854321b4b91d6db3d06bc64ce0fd1604faa86bc2840167962cda5",
+      "value": "Iespējot WAL režīmu"
+    },
+    "MessageDetailsDatePC": {
+      "source": "99c40ab405926cb5ad1def9cff4d7ce624f8f8abfff4e85f655347fcb949d08e",
+      "value": "Datums"
+    },
+    "MessageDetailsEditedDatePC": {
+      "source": "5e2995440e0a6d92e321dba0f0205cc2f28bfd4527089657971c6f4a0b574c15",
+      "value": "Rediģēt datumu"
+    },
+    "MessageDetailsFileSizePC": {
+      "source": "cf18d7d7b624cfde1a2b3163d142488d158a0044925017b8a5a2fe8ede14be34",
+      "value": "Datnes izmērs"
+    },
+    "MessageDetailsFileNamePC": {
+      "source": "ca4c37cb4476ae2b0cba406f2d2ba86941c15e9d3a169ed2feb37fd0b9fe07b7",
+      "value": "Datnes nosaukums"
+    },
+    "MessageDetailsFilePathPC": {
+      "source": "a1039763f3594e3cd8c9f2d933ca5bc137c0b781b416c009736545e62176ebb5",
+      "value": "Datnes mape"
+    },
+    "MessageDetailsResolutionPC": {
+      "source": "d4055fafa3794fa88b1e89e70c167d5a9575067a1442a6d94e9520d65a575378",
+      "value": "Izšķirtspēja"
+    },
+    "GhostModeToggle": {
+      "source": "48b2b30ed673a93a27bc0fa8d57a487e36fbafb41494dab5e29e02322b7ee1a0",
+      "value": "Spoku režīms 👻"
+    },
+    "EnableGhostMode": {
+      "source": "090bf424d9447d3778442e75c1e44e703bfb200dd020ee1d902ba4cbe35dc076",
+      "value": "Iespējot Spoku režīmu 👻"
+    },
+    "DisableGhostMode": {
+      "source": "ce39c2c251ca17e0b1dd6160915adac127b8c9ca6667fbbd0c25eff0305b18d3",
+      "value": "Atspējot Spoku režīmu 👻"
+    },
+    "EnableGhostModeTray": {
+      "source": "8ab93bf0ef58b26079d86f8067dcba27d7dd1bb379da9caaa558cc245f95cd38",
+      "value": "Iespējot spoku režīmu 👻"
+    },
+    "DisableGhostModeTray": {
+      "source": "b5e939411e5ba680f6befeecf0d6efb4a305317126edc63b6069bbcc99437b06",
+      "value": "Atspējot spoku režīmu"
+    },
+    "EditsHistoryMenuText": {
+      "source": "0e769600933790607b2a13b33ddfade0fa17810eb62c3b28ee23e59516516491",
+      "value": "Arhīvs"
+    },
+    "OneViewTTL": {
+      "source": "89a1802f54c71511cb60aca17d966cba3293fcb68567aca519c00bf9b9450806",
+      "value": "viens skatījums"
+    },
+    "ClearDeletedMessagesText": {
+      "source": "6311792eeaacda2978ba14fd8e40e262988bdb4bd5d511496094139eee306ac7",
+      "value": "Vai tiešām vēlaties notīrīt visus dzēstos ziņojumus šajā tērzēšanas sarunā?"
+    },
+    "SuggestGhostModeTitle": {
+      "source": "48b2b30ed673a93a27bc0fa8d57a487e36fbafb41494dab5e29e02322b7ee1a0",
+      "value": "Spoku režīms 👻"
+    },
+    "SuggestGhostModeStoryActionTextYes": {
+      "source": "85a39ab345d672ff8ca9b9c6876f3adcacf45ee7c1e2dbd2408fd338bd55e07e",
+      "value": "Jā"
+    },
+    "SuggestGhostModeStoryActionTextNo": {
+      "source": "1ea442a134b2a184bd5d40104401f2a37fbc09ccf3f4bc9da161c6099be3691d",
+      "value": "Nē"
+    },
+    "EnableGhostModeStories": {
+      "source": "8ab93bf0ef58b26079d86f8067dcba27d7dd1bb379da9caaa558cc245f95cd38",
+      "value": "Iespējot spoku režīmu 👻"
+    },
+    "MainFont": {
+      "source": "14299a8fb483a03acdb5dee8c52b1ade44969a0103fef5de40efe8d810e34134",
+      "value": "Programmas fonts"
+    },
+    "MessageShotPreferences": {
+      "source": "66962f72a08883733c35df6f82a049b929f9579f19c4bc083ac99bead602eab3",
+      "value": "Iestatījumi"
+    },
+    "MessageShotSave": {
+      "source": "1509f561f2416598629b886ad7d3c05a7e221e4e0675c84bbff4ee6d9e03913d",
+      "value": "Saglabāt"
+    },
+    "MessageShotShowDate": {
+      "source": "d877bdbfeef2d1ced1e2faf18583bf49e7bb4411d051b427e9bbe9c61fba6b23",
+      "value": "Rādīt datumu"
+    },
+    "LikelyOfflineStatus": {
+      "source": "656ea14b637026f5422ca34a00132d975983726a7b83789f0964f20b5fabf548",
+      "value": "bezsaistē ?"
+    },
+    "GhostModeShortcut": {
+      "source": "1346b39cd8dde98a1d91f1f476d1bdd387d6a22fd5098a0384a6a9258cb29c7b",
+      "value": "Ieiet, izmantojot Spoku režīmu 👻"
+    },
+    "ShowOnlyAddedEmojisAndStickers": {
+      "source": "637f37e1aac70a068e24a3d680c82381c6e4a7f67e4d313561501b27f1b2bf6d",
+      "value": "Rādīt tikai pievienotās emocijzīmes un uzlīmes"
+    },
+    "ContextCopyID": {
+      "source": "72ac0d580f8c4f9f71290b8145faff19e274bffb9fbc753fccbea48e4e36f30c",
+      "value": "Kopēt ID"
+    },
+    "IDCopiedToast": {
+      "source": "bd68f7811bfc4c327e27dc38643526fdb1805db35e3a9f102d2de12a83b0fb54",
+      "value": "ID kopēts starpliktuvē."
+    },
+    "ContextHideMessage": {
+      "source": "ac20a57bfde0bbc40bfe70895eb1cfacc944aaff06ca784053623c569b3e1b3d",
+      "value": "Slēpt"
+    }
+  }
+}

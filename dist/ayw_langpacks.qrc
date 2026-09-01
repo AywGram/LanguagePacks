@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="/gui/ayw_langpacks">
+    <file alias="manifest.json">manifest.json</file>
+    <file alias="locales/ar.json">locales/ar.json</file>
+    <file alias="locales/be.json">locales/be.json</file>
+    <file alias="locales/de.json">locales/de.json</file>
+    <file alias="locales/el.json">locales/el.json</file>
+    <file alias="locales/eo.json">locales/eo.json</file>
+    <file alias="locales/es.json">locales/es.json</file>
+    <file alias="locales/fa.json">locales/fa.json</file>
+    <file alias="locales/fi.json">locales/fi.json</file>
+    <file alias="locales/fr.json">locales/fr.json</file>
+    <file alias="locales/he.json">locales/he.json</file>
+    <file alias="locales/it.json">locales/it.json</file>
+    <file alias="locales/ja.json">locales/ja.json</file>
+    <file alias="locales/lv.json">locales/lv.json</file>
+    <file alias="locales/os.json">locales/os.json</file>
+    <file alias="locales/pl.json">locales/pl.json</file>
+    <file alias="locales/pt.json">locales/pt.json</file>
+    <file alias="locales/ro.json">locales/ro.json</file>
+    <file alias="locales/ru.json">locales/ru.json</file>
+    <file alias="locales/tr.json">locales/tr.json</file>
+    <file alias="locales/uk.json">locales/uk.json</file>
+    <file alias="locales/vi.json">locales/vi.json</file>
+    <file alias="locales/zh.json">locales/zh.json</file>
+    <file alias="locales/zh-hans.json">locales/zh-hans.json</file>
+    <file alias="locales/zh-hant.json">locales/zh-hant.json</file>
+  </qresource>
+</RCC>

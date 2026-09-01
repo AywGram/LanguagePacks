@@ -1,0 +1,511 @@
+{
+  "schema": 1,
+  "locale": "zh",
+  "source_sha256": "a3324e782349b64b4ec8d3f254dcd63852566bb94239d9f6b0ca6fbbb3b98955",
+  "strings": {
+    "DocsText": {
+      "source": "c205924de0fe636ccdde4ed616fef66f75b78e98b03620637965c033fd161141",
+      "value": "文档"
+    },
+    "GhostEssentialsHeader": {
+      "source": "bddf20a44f025af6dabb52ac0dd8b56858e04f088ec566a9776309a17e6ec312",
+      "value": "幽灵模式必要值"
+    },
+    "DontReadMessages": {
+      "source": "ad453b13c5c0269b5ff57a4f3615230cc44b4b19d64b2b0897bff74eee894493",
+      "value": "不显示消息已读"
+    },
+    "DontReadStories": {
+      "source": "905e1389e0b7c71e8f5c95f592073375650bd315c5e9d0148cc646c6235705eb",
+      "value": "不显示动态已读"
+    },
+    "DontSendOnlinePackets": {
+      "source": "68100d4ccdd11fba601f13615d5efe3dd453adac5aa555503a263d03deec8ea4",
+      "value": "不发送在线状态"
+    },
+    "DontSendUploadProgress": {
+      "source": "647b724bd8c3de426fe4c841ff62112ea180d414b1f177e695e9ed90502fcdb7",
+      "value": "不发送正在输入"
+    },
+    "SendOfflinePacketAfterOnline": {
+      "source": "1b2b3a73d1192da065bab053da2dd339c3e9c02cb7d427fffd18cd45f40898f3",
+      "value": "在线后立即离线"
+    },
+    "MarkReadAfterAction": {
+      "source": "048062801db6b9efc78c04289c523b31c38d96568cd8a33b256fc619b8d62b2a",
+      "value": "动作之后设置已读"
+    },
+    "MarkReadAfterSend": {
+      "source": "f6f4688ff23d50c67053963c251fa0ce64a925cf283537cf066b1f362cb9b778",
+      "value": "发送"
+    },
+    "MarkReadAfterReaction": {
+      "source": "d8be728bfd055a85222d74afd091cdf3b899ae1bfc5fec1b9984029957486d12",
+      "value": "回应"
+    },
+    "MarkReadAfterPoll": {
+      "source": "d54f7d124c7d588ed6ce5866b915d4d49d3cd6f111f34f2b29f298c531dfca56",
+      "value": "调查"
+    },
+    "UseScheduledMessages": {
+      "source": "12d6714aff8a3b4b5da5fc5626bbbea45ef4d952df885c2b02404c4edfa1617b",
+      "value": "定时消息"
+    },
+    "SuggestGhostModeBeforeViewingStory": {
+      "source": "a57314ee5ab5eeb25378ba5ffdd09696dce577bf5936ac5e1d4d785e0e1aa6a7",
+      "value": "打开动态前警告"
+    },
+    "SpyEssentialsHeader": {
+      "source": "32fe16e7e5e2486e88d395eebadfd55848f7f3e2d785a87c474b180d615a8609",
+      "value": "间谍必要值"
+    },
+    "SaveDeletedMessages": {
+      "source": "c0bc90ada1932432798cfc0ece2dfe1e8d086130594ff92eb38cc0b5bdd3ba31",
+      "value": "保留已删除的消息"
+    },
+    "SaveMessagesHistory": {
+      "source": "2da12f146146cec522c05fb021918b540adeaaeaa6b71c7fffa57c08554e1b7f",
+      "value": "保留编辑历史"
+    },
+    "MessageSavingSaveMedia": {
+      "source": "aab5ab61d24301a43d17047c68f1d2b697750121e82dd07e6ac68726bc87622c",
+      "value": "保存媒体"
+    },
+    "MessageSavingSaveMediaHint": {
+      "source": "b5fda1c2ed7af91e906e2e3071e5df8e9ee843514ac112f02b3cd3df47b31c68",
+      "value": "点击查看更多"
+    },
+    "MessageSavingSaveMediaInPrivateChats": {
+      "source": "935dfeed02c75a9dfabf89fccabce709869b9fee54016f5fe76361781be5eda3",
+      "value": "…在私聊中"
+    },
+    "MessageSavingSaveMediaInPublicChannels": {
+      "source": "309fe15f4008a3fb67e4d3cbfecf98985497558c2b5c507fd74ddc99b8db48e3",
+      "value": "…在公开频道中"
+    },
+    "MessageSavingSaveMediaInPrivateChannels": {
+      "source": "cad6ff385fb1141fb896d7bdc22379b080f7f003fa9703981aca52c733dac15f",
+      "value": "…在私有频道中"
+    },
+    "MessageSavingSaveMediaInPublicGroups": {
+      "source": "2b20c1ce4ab6d7e62b1369a8764b292129583e7eb4a8cd9f1f329d108ea0a2cf",
+      "value": "…在公开群组中"
+    },
+    "MessageSavingSaveMediaInPrivateGroups": {
+      "source": "643dbf0f1a1a372fa66cdbee51673bfba61bc8a0ffa5b5ff5df6c9a258d9889b",
+      "value": "…在私有群组中"
+    },
+    "MaximumMediaSizeCellular": {
+      "source": "98f6dbe72fb3430945d7ed447afc3076b3ae0fa89464f2e570f0d908c77f6298",
+      "value": "媒体大小限制 (移动数据)"
+    },
+    "MaximumMediaSizeWiFi": {
+      "source": "51dc14e121c0d7a1264bc0792df531bae61beae8864e7af88a22333eb43eb8ac",
+      "value": "媒体大小限制 (WiFi)"
+    },
+    "MessageSavingOtherHeader": {
+      "source": "f97e9da0e3b879f0a9df979ae260a5f7e1371edb127c1862d4f861981166cdc1",
+      "value": "其他"
+    },
+    "MessageSavingSaveForBots": {
+      "source": "1ad9a82fcba53aad3bc3e55fe5bfdcb752807907c485f20f211061af62d7d0e9",
+      "value": "保存到机器人对话框"
+    },
+    "SpySaveReadMarks": {
+      "source": "2d361b12fa51a06252daf085ca410fc4e553d5180f1d163f64bbe89d4cc4bb1c",
+      "value": "保存阅读日期"
+    },
+    "QoLTogglesHeader": {
+      "source": "4a2b7782ddf96fd7b0bfae0d3c852269572ce8aea70281eb3b4a1fa011f9a836",
+      "value": "有用特性"
+    },
+    "DisableAds": {
+      "source": "be63f202da25c7e20af3b566ca7e290355fc7934a3f6bbe57a05cbb449648378",
+      "value": "禁用广告"
+    },
+    "DisableStories": {
+      "source": "0eba4c58a77fcd85c4a6cb239bdd914002117e4d86f00cf075c7ff147da9a60f",
+      "value": "禁用动态"
+    },
+    "DisableNotificationsDelay": {
+      "source": "10131c10eaab1a405c05e453a048df0eafe282f5a8f9e0bd22911326ac5e7468",
+      "value": "禁用通知延迟"
+    },
+    "LocalPremium": {
+      "source": "471cdcf01c80d5d733386f9f54076fb3dc376c6d595381f44420368c49ada56d",
+      "value": "本地 Telegram 高级版"
+    },
+    "CopyUsernameAsLink": {
+      "source": "6edc866dcd00adff4480174647d75138b6cbf23b3255523159c3c3d33eb7bc43",
+      "value": "复制用户名为链接"
+    },
+    "CustomizationHeader": {
+      "source": "db4fd57378909f3aa6055a1161511dbac7cb913bcfb8ecfd206cb8d1a4d94b9c",
+      "value": "自定义"
+    },
+    "DeletedMarkText": {
+      "source": "1be39b1b1fe5b43a8eca47bb2211425c85f4fc9400509364d82e877390d54c3a",
+      "value": "已删除标记"
+    },
+    "EditedMarkText": {
+      "source": "89e638b7a0451536003ca10b9e016512da3bcb392c452b285caeb47545ed3384",
+      "value": "已编辑标记"
+    },
+    "HideAllChats": {
+      "source": "3f4b051349bbd260deab004b85fa92d502658aa89e17e29990b7de1912d67980",
+      "value": "隐藏“所有聊天”文件夹"
+    },
+    "SettingsShowID": {
+      "source": "0a4976401eede8cf489a2556f48512a8c4b41ce0faad4d1bd70835d30d27e4e1",
+      "value": "显示节点ID"
+    },
+    "SettingsShowID_Hide": {
+      "source": "ac20a57bfde0bbc40bfe70895eb1cfacc944aaff06ca784053623c569b3e1b3d",
+      "value": "隐藏"
+    },
+    "SettingsCustomizationHint": {
+      "source": "af07b510b0bfa64ac2bbda9febf6f84bf1b7a09073eadfe4ec3ae6f9e5fbe786",
+      "value": "修改“自定义”部分后，您必须重启应用程序。"
+    },
+    "DrawerElementsHeader": {
+      "source": "6d3906eb952a4de938106ab064dc133fa28f79ae82e420b3b77e52c224ffae14",
+      "value": "菜单项"
+    },
+    "TrayElementsHeader": {
+      "source": "95a2d778a2cde06334530f74aaa0b447676f068a8ee76531aeeacea044e5d42a",
+      "value": "菜单项"
+    },
+    "RegexFilters": {
+      "source": "8a3fcc1131bb9a6c1bd7586af9ac8be9c6d98c1b4c3cc872c8a5d72ce6fd1ca5",
+      "value": "消息过滤器"
+    },
+    "RegexFiltersHeader": {
+      "source": "546ebb8eb993ea561029d9febd84c363bdb09010bb2cb915a8287762b76b9a64",
+      "value": "过滤器"
+    },
+    "RegexFiltersShared": {
+      "source": "3861e1b5d7c8c612655e45edb7649b566f606c4e4029930d3bf3b502a82f00d3",
+      "value": "共享过滤器"
+    },
+    "FiltersHideFromBlocked": {
+      "source": "871584472eb4ef88d974d598b2c61afe105a2dc58169f44e520162300278ca32",
+      "value": "从被屏蔽的用户中隐藏"
+    },
+    "FiltersHideFromBlockedNote": {
+      "source": "181aa8ea5e7150c58e7dc6c1e6564f340f9a4f2650e3380265e2cf6d6ee995f3",
+      "value": "消息过滤器已启用。"
+    },
+    "RegexFiltersEnableSharedInChats": {
+      "source": "b21975154b2883921924a5974fb461dc05e943c5c49833c575b3fb36aabf5124",
+      "value": "在聊天中启用共享过滤器"
+    },
+    "RegexFiltersAdd": {
+      "source": "76de3dfc287cdb2e8c5ce76b1d025d5261f2559f5791893ab96b31255d02ac12",
+      "value": "添加过滤条件"
+    },
+    "RegexFiltersEdit": {
+      "source": "47d552834bb743100be67eb0a77361a6ea3f55e021bc750b494c7c316d609d24",
+      "value": "编辑过滤器"
+    },
+    "RegexFiltersPlaceholder": {
+      "source": "c67415bcff328a59fd399e2a7ca9691e0044192fb7480ae501644339965d046d",
+      "value": "表达式"
+    },
+    "EnableExpression": {
+      "source": "1b15bdeb7a93263bdcce030003eebd9409a877ee233f06b58b7bd0c961594384",
+      "value": "启用表达式"
+    },
+    "CaseInsensitiveExpression": {
+      "source": "9eead24a196e98c5006e5117318d4690add2d2ad3f48c47cf47a325fa0a069e6",
+      "value": "不区分大小写的表达式"
+    },
+    "RegexFiltersAddError": {
+      "source": "194e24a4672a977611cc01c0928f8f2583bffc9c5bcb18163e4ded4e1fdd13d0",
+      "value": "正则表达式语法错误"
+    },
+    "RegexFilterQuickAdd": {
+      "source": "76de3dfc287cdb2e8c5ce76b1d025d5261f2559f5791893ab96b31255d02ac12",
+      "value": "添加过滤条件"
+    },
+    "RegexFilterBulletinText": {
+      "source": "8d0e07967f79b53e67f94ce15df0d24e87e21eb86082b503802724e28c8639d5",
+      "value": "过滤器已添加到 **共享过滤器**中"
+    },
+    "RegexFilterBulletinAction": {
+      "source": "483d6aa741e5cd668339b5e8f4a3545a1eead4301e1cecb4eef251adefd65a64",
+      "value": "移动到当前聊天"
+    },
+    "IconDefault": {
+      "source": "21b111cbfe6e8fca2d181c43f53ad548b22e38aca955b9824706a504b0a07a2d",
+      "value": "默认值"
+    },
+    "WALMode": {
+      "source": "0fecbdc073a854321b4b91d6db3d06bc64ce0fd1604faa86bc2840167962cda5",
+      "value": "启用 WAL 模式"
+    },
+    "PushNotificationCount": {
+      "source": "bb5e7d5964c9ef4919b7dd1b12ae8753bbe927bcc61756f42de428fc225a24d1",
+      "value": "接收到 FCM 通知"
+    },
+    "ConfirmationsTitle": {
+      "source": "11f84ce1c2e9dd8cf8188b65ccb8a5e8ffcee7d9b794774e4f5c08b4200e410f",
+      "value": "确认"
+    },
+    "StickerConfirmation": {
+      "source": "dbf9cbbe0d379b63413340aa4637e03670be1b5af170d61dbfc9ebff23561804",
+      "value": "用于贴纸"
+    },
+    "GIFConfirmation": {
+      "source": "c275c265cabd266818f50b10fa3d31a03139fdb5a0b8197adda1d70ea28744a4",
+      "value": "用于 GIF"
+    },
+    "VoiceConfirmation": {
+      "source": "4732715eec1a3de491ec4d5706bb487cd394077001f96b8c23961e780efcca72",
+      "value": "用于语音信息"
+    },
+    "KillApp": {
+      "source": "6bee3deeab68910127a9374177c9f88aa881544ee2c7555ada618468b9943c1c",
+      "value": "终止应用"
+    },
+    "LReadMessages": {
+      "source": "1fad16305ba7bece8412633fd987de8e40120951a2f7b91fd1c098aa8ca5dfed",
+      "value": "在本地读取"
+    },
+    "SReadMessages": {
+      "source": "0e7e619576bbf8b4a2842eaed0d4da38c7f51e8f254168d36529d34d907f6944",
+      "value": "在服务器上读取"
+    },
+    "GhostModeToggle": {
+      "source": "48b2b30ed673a93a27bc0fa8d57a487e36fbafb41494dab5e29e02322b7ee1a0",
+      "value": "幽灵模式"
+    },
+    "EnableGhostMode": {
+      "source": "090bf424d9447d3778442e75c1e44e703bfb200dd020ee1d902ba4cbe35dc076",
+      "value": "启用幽灵功能"
+    },
+    "DisableGhostMode": {
+      "source": "ce39c2c251ca17e0b1dd6160915adac127b8c9ca6667fbbd0c25eff0305b18d3",
+      "value": "禁用幽灵功能"
+    },
+    "EnableGhostModeTray": {
+      "source": "8ab93bf0ef58b26079d86f8067dcba27d7dd1bb379da9caaa558cc245f95cd38",
+      "value": "启用幽灵模式"
+    },
+    "DisableGhostModeTray": {
+      "source": "b5e939411e5ba680f6befeecf0d6efb4a305317126edc63b6069bbcc99437b06",
+      "value": "禁用幽灵模式"
+    },
+    "GhostModeEnabled": {
+      "source": "4ffc945472f144179aa526cd5e0d6c8081a1f57c9013eb2436a324845d7d6555",
+      "value": "幽灵模式已开启"
+    },
+    "GhostModeDisabled": {
+      "source": "f6544bc4d0e2d43e2a29e355527a0feb16c93cd572c4474d2e99145f435d0e5f",
+      "value": "幽灵模式已关闭"
+    },
+    "StreamerModeToggle": {
+      "source": "d64a2e45e0d8ce9209452a73ff187cc81eadae7c8f62897130fc9508ca259a80",
+      "value": "串流模式"
+    },
+    "EnableStreamerModeTray": {
+      "source": "042de0204db0e07ad8f9b9bb69604e5a56b9de2d64e01a5bf239d756361ffd23",
+      "value": "启用串流模式"
+    },
+    "DisableStreamerModeTray": {
+      "source": "84c0557160480dca987ddb6f29a74effc8851bad749489e5261d726fb5dc121d",
+      "value": "禁用串流模式"
+    },
+    "EditsHistoryTitle": {
+      "source": "4609d568261dd4e53ae980df3e71c9c728f61f0fce4d450f58625c5b4fa8df02",
+      "value": "编辑历史"
+    },
+    "EditsHistoryMenuText": {
+      "source": "0e769600933790607b2a13b33ddfade0fa17810eb62c3b28ee23e59516516491",
+      "value": "历史"
+    },
+    "PeekOnlineMenuText": {
+      "source": "3b80ece7d3f200d7d07eac92fc42696537f4e849979704648402f5c161a9e0ee",
+      "value": "在线预览"
+    },
+    "ClearDeletedMenuText": {
+      "source": "bbb8ffc4a41e206cc2275eab6ba8c035c8da37291ac0114dcd59b76df809adfc",
+      "value": "清空已删除"
+    },
+    "ViewFiltersMenuText": {
+      "source": "166e0c2af5d8176069c7e298e390bd846495db6e48e9286218fe915ba51ea9d9",
+      "value": "查看过滤规则"
+    },
+    "PeekOnlineSuccess": {
+      "source": "60fc90a929a44af9cd5200ef7a4f0cbbfc9991408b5acc9dafc1ac3e9a1d11b7",
+      "value": "在线预览成功"
+    },
+    "OneViewTTL": {
+      "source": "89a1802f54c71511cb60aca17d966cba3293fcb68567aca519c00bf9b9450806",
+      "value": "一浏览"
+    },
+    "ReadUntilMenuText": {
+      "source": "4dc7bebd01266f146fb6b6b1b5b0c73cbd1a83fcfa388fd54987b623cbef6ec2",
+      "value": "阅读消息"
+    },
+    "DeleteKeepLocally": {
+      "source": "3158c901e36743ea5711cfd1d49992848c08ef0d8bfbf8b8bf07c17a87471f04",
+      "value": "本地保留"
+    },
+    "BoxActionReset": {
+      "source": "daee7606b339f3c339076fe2c9f372a3ff40c8ee896005d829c7481b64ca5303",
+      "value": "重置"
+    },
+    "ReadConfirmationBoxQuestion": {
+      "source": "8b866a374ffaf906e2d319bd6f4991c7137ea2c4bb2cfbbc0f81266cd179ee1d",
+      "value": "您想要已读所有消息吗？"
+    },
+    "ReadConfirmationBoxActionText": {
+      "source": "9b9a8d05a7ec353bda84f9c1bb3178c299de3001b5e970508ddc889c487f92ca",
+      "value": "已读"
+    },
+    "ClearDeletedMessagesTitle": {
+      "source": "202e5309ad1e63da85d8f2150f0359ef46b20c4567004d5c2a0d6d6c5606b95a",
+      "value": "清除已删除的消息"
+    },
+    "ClearDeletedMessagesText": {
+      "source": "6311792eeaacda2978ba14fd8e40e262988bdb4bd5d511496094139eee306ac7",
+      "value": "您确定要清除此聊天中所有已删除的消息？"
+    },
+    "ClearDeletedMessagesActionText": {
+      "source": "83b12c2216efb4fdc924e1deb5182e905e4926ed0c1c324d467107f46d5a26a9",
+      "value": "清除"
+    },
+    "SuggestGhostModeTitle": {
+      "source": "48b2b30ed673a93a27bc0fa8d57a487e36fbafb41494dab5e29e02322b7ee1a0",
+      "value": "幽灵模式"
+    },
+    "SuggestGhostModeStoryText": {
+      "source": "47c02db57eb323e193ae51791b116f70ca910f16d1ef64f9d9d3a19010d9429e",
+      "value": "您想在查看动态前启用 **幽灵模式** 吗？"
+    },
+    "SuggestGhostModeStoryActionTextYes": {
+      "source": "85a39ab345d672ff8ca9b9c6876f3adcacf45ee7c1e2dbd2408fd338bd55e07e",
+      "value": "是"
+    },
+    "SuggestGhostModeStoryActionTextNo": {
+      "source": "1ea442a134b2a184bd5d40104401f2a37fbc09ccf3f4bc9da161c6099be3691d",
+      "value": "否"
+    },
+    "HideNextViewsDescriptionAyu": {
+      "source": "773021e9ab97ac852ccb0708f57cb56c778beb7ac001fbcd010e46b4889560b9",
+      "value": "永远隐藏我的浏览，直到幽灵模式禁用。"
+    },
+    "EnableGhostModeStories": {
+      "source": "8ab93bf0ef58b26079d86f8067dcba27d7dd1bb379da9caaa558cc245f95cd38",
+      "value": "启用幽灵模式"
+    },
+    "GhostModeIsActive": {
+      "source": "fd4fbece058746531e6bb1bff874e9bf3e08693fb08b6609f7df0bd6c150fe2e",
+      "value": "幽灵模式已激活"
+    },
+    "SimpleQuotesAndReplies": {
+      "source": "aaa9bc1326e46cfe67e7b535286a6d4ca2a51808f74482c0407c4f3151cc7a5e",
+      "value": "禁用彩色回复"
+    },
+    "DisableSimilarChannels": {
+      "source": "5e4340f15329f8d39788da0cee679233afd37ac17cd9ce622a113c4136031185",
+      "value": "禁用“类似频道”"
+    },
+    "CollapseSimilarChannels": {
+      "source": "8f514fbfd64caae13221656056e7a82613d307ea4d38c82065fc901351e4940f",
+      "value": "折叠”类似频道”"
+    },
+    "HideSimilarChannelsTab": {
+      "source": "19ec3a07534389b7d7d4f9163613b46b0fdd2acd06ee15d79900f38d9e770dba",
+      "value": "隐藏相似频道选项卡"
+    },
+    "MainFont": {
+      "source": "14299a8fb483a03acdb5dee8c52b1ade44969a0103fef5de40efe8d810e34134",
+      "value": "应用程序字体"
+    },
+    "MonospaceFont": {
+      "source": "37463feae25095d7842b9e128a5c36707e0ad9f074818b9fddc4d8b98985a7fe",
+      "value": "等宽字体"
+    },
+    "FontDefault": {
+      "source": "21b111cbfe6e8fca2d181c43f53ad548b22e38aca955b9824706a504b0a07a2d",
+      "value": "默认值"
+    },
+    "CustomizeFontTitle": {
+      "source": "d0962003eebb02d9b55faf83eaae82106757308d30e99d1e4795bb9d7d4eb076",
+      "value": "自定义字体"
+    },
+    "AyuForwardStatusLoadingMedia": {
+      "source": "0753e19dc3121ced14ce03a7220ccf026dbaecee4308a1df32448f465bdd79f9",
+      "value": "加载媒体…"
+    },
+    "AyuForwardStatusForwarding": {
+      "source": "a78532ec97fa1a477d01711bc7dee5bf1733a58a1ad781918660ace140b6d18b",
+      "value": "正在转发消息…"
+    },
+    "DeleteDateMenuText": {
+      "source": "45627aa48486e7beb076b2495ca79d9c75fb109bd9a897d83832f17ba751bb9b",
+      "value": "删除日期"
+    },
+    "ReadDateMenuText": {
+      "source": "32ab1ac7cb9e6f301fe76e0570b245a0b31cb720b28e77a13aa092ad54c0bc43",
+      "value": "阅读日期"
+    },
+    "ContentsReadDateMenuText": {
+      "source": "e048c018d6bd01469c4dacb57d09e2611c60e70b48a31621a16fdb491b304415",
+      "value": "内容阅读日期"
+    },
+    "LikelyOfflineStatus": {
+      "source": "656ea14b637026f5422ca34a00132d975983726a7b83789f0964f20b5fabf548",
+      "value": "离线？"
+    },
+    "GhostModeShortcut": {
+      "source": "1346b39cd8dde98a1d91f1f476d1bdd387d6a22fd5098a0384a6a9258cb29c7b",
+      "value": "以幽灵模式进入"
+    },
+    "SettingsShowMessageSeconds": {
+      "source": "7acff2bbb7c14f42d8ba8bd45ce94629ebc243c55884de50027b512e8d42837b",
+      "value": "显示消息的秒"
+    },
+    "ContextCopyID": {
+      "source": "72ac0d580f8c4f9f71290b8145faff19e274bffb9fbc753fccbea48e4e36f30c",
+      "value": "复制 ID"
+    },
+    "IDCopiedToast": {
+      "source": "bd68f7811bfc4c327e27dc38643526fdb1805db35e3a9f102d2de12a83b0fb54",
+      "value": "ID 已复制到剪贴板"
+    },
+    "ContextHideMessage": {
+      "source": "ac20a57bfde0bbc40bfe70895eb1cfacc944aaff06ca784053623c569b3e1b3d",
+      "value": "隐藏"
+    },
+    "ContextCopyCallbackData": {
+      "source": "64272ea19ff7ae87849069356374594ddccc5603a4d750c689ac18abc065add7",
+      "value": "复制回调数据"
+    },
+    "LocalPremiumNotice": {
+      "source": "7a0fa8cb5db7c96f377bfd197791defc1e59e4a07526483d0daf0e0933c6048f",
+      "value": "你正在使用**本地**的Telegram高级版。\n它**不会**为你提供任何额外的好处，除了翻译功能。\n**享受你昵称旁边的星星吧！**"
+    },
+    "ConfirmationSticker": {
+      "source": "9015b2d68f657bf0100d162a81b0a9168434d965370d7b1cbb2b50bd33175df7",
+      "value": "您想要发送这个贴纸吗？"
+    },
+    "ConfirmationGIF": {
+      "source": "1fdee62e16a2a66e89f9e8ce073e5e92f3d52c6f0d53b8e4375ea1c11bfe13dd",
+      "value": "您想要发送这个 GIF 吗？"
+    },
+    "ConfirmationVoice": {
+      "source": "622ac9f0a303b32e184e7c4b3a987ccf0f7c81b879ba88900fbf365e25d61be3",
+      "value": "您想要发送这个语音消息吗？"
+    },
+    "AboutText1": {
+      "source": "654d0e6d80cac1ffe72e1b22f44d27860f13b1c6512e8708c7b38b5fed77db8e",
+      "value": "只是一个基于 {api_link} 的酷酷客户端。"
+    },
+    "UtilityRestartRequired": {
+      "source": "d6378fe7db172cc8878f1ce77bc918d27cd91cf4235a11829e43b78ac7acca40",
+      "value": "应用将在5秒后关闭。"
+    }
+  }
+}
